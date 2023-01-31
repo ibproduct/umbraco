@@ -1,0 +1,56 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+  "AddOnPackagesRequiredForUmbracoCloud": [],
+  "AlternatePackageNames": [],
+  "AuthorDetails": {
+    "Name": "IntelligenceBank",
+    "Description": "Unleash the power of your content with IntelligenceBank's award-winning Digital Asset Management, BrandHub and Marketing Operations software",
+    "Url": "https://umbraco.com/integrations-and-tech-partners/intelligencebank-dam-intelligencebank-dam-experts/",
+    "ImageUrl": "https://umbraco.com/media/rxzng3s4/publisherlogo_screen-shot-2023-01-11-at-55735-pm.png",
+    "Contributors": [
+      {
+        "Name": "Brimit",
+        "Url": "https://www.brimit.com/"
+      }
+    ],
+    "SyncContributorsFromRepository": false
+  },
+  "Category": "PIM & DAM",
+  "Description": "The IntelligenceBank Connector for Umbraco CMS makes it easy for users to access, browse and insert their approved IntelligenceBank assets as CDN links directly from within their Umbraco CMS environment, either via dedicated Media Picker fields or the rich text editor.",
+  "DocumentationUrl": "https://help.intelligencebank.com/hc/en-us/sections/14398637115545-IntelligenceBank-Connector-for-Umbraco-CMS",
+  "LicenseTypes": [ "Purchase", "Subscription" ],
+  "IsSubPackageOf": "",
+  "PackageType": "Integration",
+  "PackagesByAuthor": [],
+  "RelatedPackages": [
+    {
+      "PackageId": "",
+      "Description": ""
+    }
+  ],
+  "Screenshots": [
+    {
+      "ImageUrl": "https://help.intelligencebank.com/hc/article_attachments/14599855180569.png",
+      "Caption":"Add IB: Media Picker property editor as a new data type"
+    },
+   {
+      "ImageUrl": "https://help.intelligencebank.com/hc/article_attachments/14398985014553.png",
+      "Caption":"Access IntelligenceBank assets from the rich-text editor"    },
+   {
+      "ImageUrl": "https://help.intelligencebank.com/hc/article_attachments/14398874296857.png",
+      "Caption": "Browse your IntelligenceBank assets and select the CDN link to insert into your content"
+    }
+  ],
+  "Tags": ["DAM","compliance","assets","CDN","responsive","approval","files","marketing","umbraco","plugin","package","umbraco-marketplace"],
+  "Title": "IntelligenceBank DAM Connector",
+  "VersionSpecificPackageIds": [
+    {
+      "UmbracoMajorVersion": 11,
+      "PackageId": "IntelligenceBank.Umbraco.Connector --version 11.0.394.9530"
+    },
+    {
+      "UmbracoMajorVersion": 10,
+      "PackageId": "IntelligenceBank.Umbraco.Connector --version 10.0.394.9620"
+    }
+  ]
+}
