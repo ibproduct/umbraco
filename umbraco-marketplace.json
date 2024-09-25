@@ -40,6 +40,10 @@
     "Tags": ["DAM", "compliance", "assets", "CDN", "responsive", "approval", "files", "marketing", "umbraco", "plugin", "package", "umbraco-marketplace"],
     "Title": "IntelligenceBank DAM Connector",
     "VersionSpecificPackageIds": [{
+            "UmbracoMajorVersion": 13,
+            "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.597.4930"
+        },
+        {
             "UmbracoMajorVersion": 12,
             "PackageId": "IntelligenceBank.Umbraco.Connector --version 12.0.597.4930"
         },
