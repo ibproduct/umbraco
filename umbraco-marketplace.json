@@ -41,6 +41,6 @@
     "Title": "IntelligenceBank Assets Connector",
     "VersionSpecificPackageIds": [{
         "UmbracoMajorVersion": 17,
-        "PackageId": "IntelligenceBank.Umbraco.Connector --version 17.0.1675.894"
+        "PackageId": "IntelligenceBank.Umbraco.Connector --version 17.0.1675.926"
     }]
 }
